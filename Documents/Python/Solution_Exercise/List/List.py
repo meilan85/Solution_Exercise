@@ -21,3 +21,5 @@ print(sum(Values_to_sum))
 
 #Four
 
+def hello_func():
+    pass
